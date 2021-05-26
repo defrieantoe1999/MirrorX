@@ -24,6 +24,9 @@ For The Most Recent Changes, Please Check The Changelog.👇
 
 ## 👉[Changelog](https://github.com/iamLiquidX/MirrorX/wiki/Changelog)
 
+Fork this repo, than upload credentials.json and token.pickle to your forks
+
+<p><a href="https://heroku.com/deploy?template=https://github.com/defrieantoe1999/MirrorX"> <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" /></a></p>
 
 
 # Credits 👇
