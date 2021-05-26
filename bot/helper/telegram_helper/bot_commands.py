@@ -4,9 +4,10 @@ class _BotCommands:
         self.MirrorCommand = 'koco'
         self.UnzipMirrorCommand = 'unzipkoco'
         self.TarMirrorCommand = 'tarkoco'
-        self.CancelMirror = 'cancel'
-        self.CancelAllCommand = 'cancelall'
+        self.CancelMirror = 'batal'
+        self.CancelAllCommand = 'gagal'
         self.ListCommand = 'list'
+        self.SpeedCommand = 'speedtest'
         self.StatusCommand = 'status'
         self.AuthorizeCommand = 'authorize'
         self.UnAuthorizeCommand = 'unauthorize'
@@ -15,11 +16,9 @@ class _BotCommands:
         self.StatsCommand = 'stats'
         self.HelpCommand = 'tolong'
         self.LogCommand = 'log'
-        self.SpeedCommand = 'gass'
-        self.CloneCommand = "kelon"
+        self.CloneCommand = "kopi"
         self.WatchCommand = 'nonton'
-        self.TarWatchCommand = 'tartonton'
-        self.DeleteCommand = 'hapus'
-        self.UsageCommand = 'usage'
+        self.TarWatchCommand = 'tarwatch'
+        self.deleteCommand = 'hapus'
 
 BotCommands = _BotCommands()
